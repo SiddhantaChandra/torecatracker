@@ -1,0 +1,4 @@
+SUPABASE_URL = "https://orzdjptliwwwhguldfok.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9yemRqcHRsaXd3d2hndWxkZm9rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAxNjQ5MzgsImV4cCI6MjA1NTc0MDkzOH0.yPZVODSO_8l0bglIfChr63KLO-SdLwDMNedEZT05VME"
+
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1342555322929381441/RpVOyAfycPeObkR8038D0WyWYPQRCx0yjZexhYIxd8-5J6HPuUqEUqDQ0j4fr0-hzE3I"
