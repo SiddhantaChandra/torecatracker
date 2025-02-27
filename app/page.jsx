@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { supabase } from '@/lib/supabase';
+import { supabase } from '../lib/supabase';
 import { Toaster, toast } from 'react-hot-toast';
 import Image from 'next/image';
 import tsukiLogo from './assets/images/tsuki_logo_new.png';
